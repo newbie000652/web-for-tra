@@ -6,7 +6,7 @@
   <link href="http://newbie000652.github.io/atom.xml" rel="self"/>
   
   <link href="http://newbie000652.github.io/"/>
-  <updated>2024-03-18T12:13:09.607Z</updated>
+  <updated>2024-03-18T12:15:29.483Z</updated>
   <id>http://newbie000652.github.io/</id>
   
   <author>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>FirstBlogPost</title>
-    <link href="http://newbie000652.github.io/2024/03/16/FirstBlogPost/"/>
-    <id>http://newbie000652.github.io/2024/03/16/FirstBlogPost/</id>
-    <published>2024-03-16T13:41:35.000Z</published>
-    <updated>2024-03-18T12:13:09.607Z</updated>
+    <link href="http://newbie000652.github.io/2024/03/18/FirstBlogPost/"/>
+    <id>http://newbie000652.github.io/2024/03/18/FirstBlogPost/</id>
+    <published>2024-03-18T12:15:01.000Z</published>
+    <updated>2024-03-18T12:15:29.483Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to my blog. This is my very first post. </p><h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>测测。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>测测能不能发出去。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to my blog. This is my very first post. &lt;/p&gt;
-&lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;&lt;p&gt;测测。&lt;/p</summary>
+    <summary type="html">&lt;h1 id=&quot;Test&quot;&gt;&lt;a href=&quot;#Test&quot; class=&quot;headerlink&quot; title=&quot;Test&quot;&gt;&lt;/a&gt;Test&lt;/h1&gt;&lt;p&gt;测测能不能发出去。&lt;/p&gt;
+</summary>
       
     
     
