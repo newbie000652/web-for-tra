@@ -1,3 +1,4 @@
-http://newbie000652.github.io/2024/03/18/FirstBlogPost/
-http://newbie000652.github.io/
-http://newbie000652.github.io/tags/test/
+https://newbie000652.github.io/web-for-tra/2024/03/18/FirstBlogPost/
+https://newbie000652.github.io/web-for-tra/2025/12/16/Hello-GitHub-Actions/
+https://newbie000652.github.io/web-for-tra
+https://newbie000652.github.io/web-for-tra/tags/test/

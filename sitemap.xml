@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://newbie000652.github.io/2024/03/18/FirstBlogPost/</loc>
+    <loc>https://newbie000652.github.io/web-for-tra/2024/03/18/FirstBlogPost/</loc>
     
-    <lastmod>2024-03-18</lastmod>
+    <lastmod>2025-12-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://newbie000652.github.io/web-for-tra/2025/12/16/Hello-GitHub-Actions/</loc>
+    
+    <lastmod>2025-12-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,16 +21,16 @@
   
 
   <url>
-    <loc>http://newbie000652.github.io/</loc>
-    <lastmod>2024-03-18</lastmod>
+    <loc>https://newbie000652.github.io/web-for-tra</loc>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://newbie000652.github.io/tags/test/</loc>
-    <lastmod>2024-03-18</lastmod>
+    <loc>https://newbie000652.github.io/web-for-tra/tags/test/</loc>
+    <lastmod>2025-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

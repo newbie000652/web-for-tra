@@ -3,11 +3,11 @@
   <title>web-for-tra</title>
   
   <subtitle>A test for building a website</subtitle>
-  <link href="http://newbie000652.github.io/atom.xml" rel="self"/>
+  <link href="https://newbie000652.github.io/web-for-tra/atom.xml" rel="self"/>
   
-  <link href="http://newbie000652.github.io/"/>
-  <updated>2024-03-18T12:15:29.483Z</updated>
-  <id>http://newbie000652.github.io/</id>
+  <link href="https://newbie000652.github.io/web-for-tra/"/>
+  <updated>2025-12-16T06:31:24.186Z</updated>
+  <id>https://newbie000652.github.io/web-for-tra/</id>
   
   <author>
     <name>tra</name>
@@ -17,11 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello GitHub Actions</title>
+    <link href="https://newbie000652.github.io/web-for-tra/2025/12/16/Hello-GitHub-Actions/"/>
+    <id>https://newbie000652.github.io/web-for-tra/2025/12/16/Hello-GitHub-Actions/</id>
+    <published>2025-12-16T05:56:26.000Z</published>
+    <updated>2025-12-16T06:31:24.186Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>FirstBlogPost</title>
-    <link href="http://newbie000652.github.io/2024/03/18/FirstBlogPost/"/>
-    <id>http://newbie000652.github.io/2024/03/18/FirstBlogPost/</id>
+    <link href="https://newbie000652.github.io/web-for-tra/2024/03/18/FirstBlogPost/"/>
+    <id>https://newbie000652.github.io/web-for-tra/2024/03/18/FirstBlogPost/</id>
     <published>2024-03-18T12:15:01.000Z</published>
-    <updated>2024-03-18T12:15:29.483Z</updated>
+    <updated>2025-12-16T06:31:24.186Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1><p>测测能不能发出去。</p>]]></content>
     
@@ -35,7 +48,7 @@
     
     
     
-    <category term="test" scheme="http://newbie000652.github.io/tags/test/"/>
+    <category term="test" scheme="https://newbie000652.github.io/web-for-tra/tags/test/"/>
     
   </entry>
   
