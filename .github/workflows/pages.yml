@@ -6,7 +6,7 @@ on:
       - source
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -34,6 +34,14 @@ jobs:
 
       - name: Build
         run: npx hexo generate
+
+      - name: Push generated content to main branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: main
+          commit_message: "Auto-deploy: ${{ github.event.head_commit.message }}"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
